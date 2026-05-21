@@ -15,7 +15,8 @@
 
 @font-face {
     font-family: "Dune-Rise";
-    src: url("font/Dune_Rise.ttf") format("ttf");
+	src: url("font/Dune_Rise.otf");
+    src: url("font/Dune_Rise.ttf") format("truetype");
 }
 
 html {
